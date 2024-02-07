@@ -1,7 +1,7 @@
 # Youtube-Shorts-Generator
 This project was done as an 48h-hour challenge as in my [recent video](https://youtu.be/ZmSb3LZDdf0](https://www.youtube.com/watch?v=HWuVNHEnr1A)https://www.youtube.com/watch?v=HWuVNHEnr1A).
 
-*Its sole purpose is to automate the process of creating youtube shorts by generating a number of random fun facts that can be spoken within 60 seconds by a TTS model, displayed on a satisfying background with accompanying synced subtitles.*
+*Its sole purpose is to automate the process of creating youtube shorts by generating a number of random fun facts that can be spoken within 60 seconds by a TTS model, displayed on top of a satisfying background with accompanying synced subtitles.*
 
 ---
 
