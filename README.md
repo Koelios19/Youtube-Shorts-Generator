@@ -7,7 +7,7 @@ This project was done as an 48h-hour challenge as in my [recent video](https://y
 
 ## Installation:
 - Install dependencies.
-- Download this [mp4 file](https://www.mediafire.com/file/v0nlo8jp58l3qrs/Background.mp4/file). Move it to the same folder and make sure it's named `background.mp3`
+- Download this [mp4 file](https://www.mediafire.com/file/v0nlo8jp58l3qrs/Background.mp4/file). Move it to the same folder and make sure it's named `background.mp4`.
 - Grab an Eleven Labs API key from [here](https://elevenlabs.io/api) and set it to `api_key` (line 4 in `FactTeller.py`).
   
 Now run `python main.py` and wait. The program takes roughly 3 minutes and the output will be saved as `__temp__.mp4`.
