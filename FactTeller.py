@@ -1,8 +1,10 @@
 import randfacts
 from elevenlabs import generate, set_api_key, save
 
-set_api_key("e132a5a85840348b1ae6ec404e274ce2")
+api_key = 'e132a5a85840348b1ae6ec404e274ce2'
 # This is the Eleven Labs API key. If it ever expires grab one at https://elevenlabs.io/api
+set_api_key(api_key)
+
 
 
 def generate_fact():
