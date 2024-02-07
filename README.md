@@ -5,7 +5,7 @@ This project was done as an 48h-hour challenge as shown in my [recent video](htt
 
 ---
 
-##Installation:
+#Installation:
 - Install dependencies
 - Grab an Eleven Labs API key from [here](https://elevenlabs.io/api)https://elevenlabs.io/api).
   
