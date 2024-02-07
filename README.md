@@ -7,6 +7,7 @@ This project was done as an 48h-hour challenge as in my [recent video](https://y
 
 ## Installation:
 - Install dependencies.
+- Download this [mp3 file](). Move it to the same folder and make sure it's named as follows `background.mp3`
 - Grab an Eleven Labs API key from [here](https://elevenlabs.io/api).
   
 Now run `python main.py` and wait. The program takes roughly 3 minutes and the output will be saved as `__temp__.mp4`.
